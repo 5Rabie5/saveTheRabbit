@@ -4,7 +4,6 @@ public class Move {
     Fox fox = new Fox();
     Rabbit rabbit = new Rabbit();
     public void move(){
-        fox.move();
-        rabbit.move();
+
     }
 }
