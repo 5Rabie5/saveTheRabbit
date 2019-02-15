@@ -1,4 +1,4 @@
-package sample;
+package sample.Unused;
 
 import javafx.animation.Animation;
 import javafx.animation.Interpolator;
